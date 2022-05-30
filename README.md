@@ -8,12 +8,12 @@
 ✔️ The plugin helps you to automatically change tools ✔️
 <br>
 
-##Author
+#Author
 ->lenlenL6
 
 <br>
 
-## Install
+# Install
 >- Step 1: Click the `Direct Download` button to download the plugin
 >- Step 2: move the file `WarpGUI.phar` into the file `plugins`
 >- Step 3: Restart server
