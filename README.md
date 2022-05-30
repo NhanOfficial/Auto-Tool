@@ -2,7 +2,7 @@
 | --- | --- |
 | **🇻🇳API** | **4.0.0** |
 | **🇻🇳Version** | **0.0.2** |
-| **🇻🇳Webite** | **none** |
+| **🇻🇳Website** | **none** |
 | **🇻🇳Poggit** | **none** |
 <br>
 ✔️ The plugin helps you to automatically change tools ✔️
